@@ -1,0 +1,6 @@
+doc/html
+*.cproject
+*.project
+*.settings
+
+/.vscode
